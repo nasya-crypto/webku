@@ -19,6 +19,16 @@ body{
     padding:0 1pc;
 }
 
+.menu{
+    background-color:#ffc308
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
+}
+
 
 
 
