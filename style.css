@@ -6,6 +6,10 @@ body{
     margin:0 auto;
 }
 
+.jarak{
+    padding:0 2pc;
+}
+
 .header{
     width:90%;
     margin:auto;
@@ -91,6 +95,7 @@ body{
     margin-bottom:1pc;
 }
     
+
 
 
 
