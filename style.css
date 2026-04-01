@@ -43,7 +43,7 @@ body{
 }
 
 .menu ul li a;hover {
-    background-color:#4b88bb;
+    background-color:#8B0000;
     display:block;
 }
 
@@ -90,7 +90,7 @@ body{
     height:40px;
     line-height:40px;
     background:#feecc8;
-    color:#feecc8;
+    color:#8B0000;
     margin-bottom: 1pc;
 }    
 
