@@ -85,14 +85,16 @@ body{
 }
 
 .footer{
-    width:90%;
-    margin:auto;
-    height:40px;
+    width:100%;
+    clear:both;
+    height:auto;
+    min-height:40px;
     line-height:40px;
     background:#feecc8;
     color:#8B0000;
-    margin-bottom: 1pc;
-}    
+    padding-left:20px;
+    margin-top:20px;
+}   
 
 
 
